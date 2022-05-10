@@ -21,7 +21,7 @@ It takes five seconds to cook a single side of fish. The exclamation points appe
 For the cost of a gold gift, you could hold a banquet yourself. Only use taels and gift boxes.
 
 ## Curiosity
-[Curiosity](./curiosity/curiosity.md)
+[Curiosity](./curiosity/curiosity.md#curiosity)
 
 ## Elite Drill
 Play 5x. You gain five times more points, at the cost of dying three times faster. This is a win.
@@ -59,7 +59,7 @@ You've probably already messed them up. For such a permanent mechanic, it is exp
 
 ## Mohist Maze
 #### Red Burrs
-[Where do Red Burrs appear?](./mohist-maze/red-burr-location.md)
+[Where do Red Burrs appear?](./mohist-maze/red-burr-location.md#where-do-red-burrs-appear)
 
 ## Naadam Fair
 - To calculate a minister's CP during Loot: `[Your minister's CP] / ( [% damage you did] / 100 )`
@@ -129,4 +129,4 @@ The boost events very rarely change, but the events can sometimes be different -
 - Rearrange your defence teams occasionally. You will catch people off-guard, and it's funny.
 
 ##### Clash Powering
-[Power to beat another player](./sovereign-clash/beat-a-player.md)
+[Power to beat another player](./sovereign-clash/beat-a-player.md#powering-to-beat-a-player)

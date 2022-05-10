@@ -5,8 +5,8 @@ I am [UE42] Marches, the best player ever. 🎉
 The majority of players will never win an event; this is the reality of a pay-to-win game. Rather than celebrating VIP 10s who win yet again (and lamenting your lack of success), you should set achievable goals that you want to hit (e.g. powering unique ministers, doing well in your favourite events), and celebrate those who hit theirs.
 
 ## Alliance Carnival
-When you receive an invite to a Gate, wait to go past Go before you accept it - this lets you skip more of the board, so you get more trips.
- - The rewards for passing Go increase on rounds 10 and 18.
+- When you receive an invite to a Gate, wait to go past Go before you accept it - this lets you skip more of the board, so you get more trips.
+   - The rewards for passing Go increase on rounds 10 and 18.
 
 ## Art Academy
 Calculate how many Painting Boxes you will receive on the third day, and have the sum of that and how many you have remaining on the second day be a multiple of 10 - this means you will spend less time using your boxes on the final day, and so will win the tiebreaker between people who have the same score as you (since the tiebreaker is "who reached that score first?").
@@ -14,7 +14,7 @@ Calculate how many Painting Boxes you will receive on the third day, and have th
 For example, a 0.99 recharge + gold Painting Boxes + activeness reward Painting Boxes will give you 17 per day. If you end the second day with 3, you will have 20 on the third day after you gain all of your boxes - this means you can use all of your boxes in two 10x paints. This is faster than the alternative, which would be painting with 17 boxes; one 10x paint, and seven 1x paints.
 
 ## Backyard Entertainment
-- It takes five seconds to cook a single side of fish. The exclamation points appear when it's about to burn, at ten seconds. You are best off counting to five yourself.
+It takes five seconds to cook a single side of fish. The exclamation points appear when it's about to burn, at ten seconds. You are best off counting to five yourself.
 ![](./img/bbq.png)
 
 ## Banquets
@@ -64,7 +64,6 @@ Play 5x. You gain five times more points, at the cost of dying three times faste
 Guardians are most efficient talisman-wise at 3* - it costs 20 to get there, giving a 1% bonus and +5 potential in all stats. The next level costs 40, and provides the same stat increase.
 
 ## Go Match
-- Skip the first floor.
 - Open bowls when you get the Go Saint to fish for the 2x point buff.
   - Also worth doing on the second floor Epic, if the bowls will expire before you plan to go to the third floor.
   - If you don't have any bowls, you can mark them and move on - keep killing NPCs until one drops a bowl with a 2x point buff, and then attack your mark to get the buffed points there.
@@ -99,8 +98,7 @@ You've probably already messed them up. For such a permanent mechanic, it is exp
 ## Naadam Fair
 - To calculate a minister's CP during Loot: `[Your minister's CP] / ( [% damage you did] / 100 )`
 
-## Penglai Island
-- Skip the first map.
+## Penglai Island Domination
 - If you want to go to the third map at the start of the day, go ASAP and pop Dragon Compasses as fast as you can. While you are the only player up there, the player target will be a weak NPC. 
   - Make sure you have a decent number of nation members to ransom your ministers back when stronger players come and smash you up.
 - Otherwise, go as late as possible (i.e. hit 25/30 stamina with all your gold left) so you get a good spread of players and are less likely to get players you can't one-shot.

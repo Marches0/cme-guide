@@ -94,7 +94,7 @@ You've probably already messed them up. For such a permanent mechanic, it is exp
 
 ## Mohist Maze
 #### Red Burrs
-[Where do Red Burrs appear?](./mohist/red-burr-location.md)
+[Where do Red Burrs appear?](./mohist-maze/red-burr-location.md)
 
 ## Naadam Fair
 - To calculate a minister's CP during Loot: `[Your minister's CP] / ( [% damage you did] / 100 )`
@@ -167,4 +167,4 @@ The boost events very rarely change, but the events can sometimes be different -
 - Rearrange your defence teams occasionally. You will catch people off-guard, and it's funny.
 
 ##### Clash Powering
-[Power to beat another player](./clash/beat-a-player.md)
+[Power to beat another player](./sovereign-clash/beat-a-player.md)

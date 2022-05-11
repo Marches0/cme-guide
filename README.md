@@ -1,3 +1,5 @@
+![](./img/banner.jpg)
+
 # CME Tips
 I am [UE42] Marches, the best player ever. 🎉
 
@@ -68,9 +70,9 @@ You've probably already messed them up. For such a permanent mechanic, it is exp
 - If you want to go to the third map at the start of the day, go ASAP and pop Dragon Compasses as fast as you can. While you are the only player up there, the player target will be a weak NPC. 
   - Make sure you have a decent number of nation members to ransom your ministers back when stronger players come and smash you up.
 - Otherwise, go as late as possible (i.e. hit 25/30 stamina with all your gold left) so you get a good spread of players and are less likely to get players you can't one-shot.
+- If you already have an active mark, trying to mark another target will display an interface that shows that target's HP. Use this to help you choose between your two player targets if you're unsure about their HP.
 
 ## Power
-
 #### When to power
 Power at any time you need it, including outside of power-increase events. If you're weak, getting power _now_ will help you rank higher during power events (e.g. Penglai), meaning you get more rewards.
 
